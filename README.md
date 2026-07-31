@@ -19,7 +19,7 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset usi
 - Generated insights
 
 ## Output
-The project provides insights into passenger survival, age distribution, and other important characteristics of the Titanic dataset.
+The project provides insights into passenger survival, age distribution, gender distribution and other important characteristics of the Titanic dataset.
 
 ## Author
 Amit Kumar
